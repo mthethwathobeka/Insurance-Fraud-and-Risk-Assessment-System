@@ -21,6 +21,11 @@ This project processes and analyzes a 53,503-record insurance dataset to identif
 * **Business Intelligence & Reporting:** Power BI, Power Query, DAX
 * **Data Concepts:** Data Cleansing, Data Validation, Exploratory Data Analysis, Risk Modelling, Fraud Analytics
 
+## Dashboard Visualation
+# Insurance Fraud and Risk Executive Dashboard
+<img width="1377" height="772" alt="image" src="https://github.com/user-attachments/assets/29a0dd7b-9b8e-41c2-bbce-0c325430d560" />
+
+
 ## How to Use
 1. Clone the repository to your local machine.
 2. Open the `.pbix` file using Microsoft Power BI Desktop.
