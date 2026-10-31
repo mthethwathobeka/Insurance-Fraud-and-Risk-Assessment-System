@@ -22,7 +22,11 @@ This project processes and analyzes a 53,503-record insurance dataset to identif
 * **Data Concepts:** Data Cleansing, Data Validation, Exploratory Data Analysis, Risk Modelling, Fraud Analytics
 
 ## Dashboard Visualation
-# Insurance Fraud and Risk Executive Dashboard
+
+<img width="1377" height="772" alt="Screenshot 2026-10-31 171620" src="https://github.com/user-attachments/assets/9b946d8a-72e3-45b4-ad01-06a4e5a2f3a1" />
+
+<img width="1372" height="771" alt="Screenshot 2026-10-31 171646" src="https://github.com/user-attachments/assets/d3c14d0f-7a23-40ee-9290-d880508bfd15" />
+
 <img width="1377" height="772" alt="image" src="https://github.com/user-attachments/assets/29a0dd7b-9b8e-41c2-bbce-0c325430d560" />
 
 
